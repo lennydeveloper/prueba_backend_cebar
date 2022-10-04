@@ -63,3 +63,11 @@ El respaldo de la BD y demás Scripts se podrán encontrar en la carpeta sources
 ### Librerías
 
 Las librerías empleadas en este desarrollo se puede encontrar en el archivo requirements.txt
+
+### Crear el entorno virtual
+
+```bash
+$ python -m venv [nombre del virtualenv]
+$ source Scripts/activate
+$ pip install -r requirements.txt
+```
